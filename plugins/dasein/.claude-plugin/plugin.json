@@ -1,0 +1,10 @@
+{
+  "name": "dasein",
+  "displayName": "Dasein",
+  "version": "0.0.10-alpha-6-g7233e51",
+  "description": "Context savings for Claude Code: blocks wasteful re-reads and command loops, measures every token it saves. Free tier of the Dasein A3S stack.",
+  "author": {
+    "name": "Dasein Labs"
+  },
+  "mcpServers": "./.mcp.json"
+}
